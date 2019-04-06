@@ -1,17 +1,13 @@
-# login_stateful
+# Log In Form
 
-A new Flutter project.
+In this project a made simple, but functional log in form with Flutter. It has validation, so it doesn't let user to enter an email without "@" or password shorter than 4 characters.
+Unfortunately it doesn't have database or some kind of backend, but i hope i am goind to add it in the future.
 
-## Getting Started
+## What I have learned
 
-This project is a starting point for a Flutter application.
+On this project I learned how to make forms and how to use form methods, like validate() or save(). Also i have learned how to make and use mixins in Flutter.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
-# LogInForm
+### Screenshots
+![Screenshot 1](https://user-images.githubusercontent.com/26110447/55675261-5edcbb00-58c0-11e9-8dd5-fc6870104af8.PNG)
+![Screenshot 2](https://user-images.githubusercontent.com/26110447/55675262-5f755180-58c0-11e9-8a26-985df77ff3f8.PNG)
+![Screenshot 3](https://user-images.githubusercontent.com/26110447/55675263-600de800-58c0-11e9-8259-d1c563c03ee8.PNG)
